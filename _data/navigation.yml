@@ -11,11 +11,11 @@
   - title: "Domande frequenti"
     url: "/chi-siamo/domande-frequenti/"
   - title: "I nostri Mentor"
-    url: "/design/nostru-mentor/"
+    url: "/design/nostri-mentor/"
 
 - title: "Eventi"
-    url: "/eventi/"
-    side: left
+  url: "/eventi/"
+  side: left
 
 - title: "Risorse"
   url: "/risorse/"
@@ -29,12 +29,12 @@
     url: "/risorse/strumenti/"
 
 - title: "Sostienici"
-    url: "/sostienici/"
-    side: left
+  url: "/sostienici/"
+  side: left
 
 - title: "Diventa Mentor"
-    url: "/diventa-mentor/"
-    side: left
+  url: "/diventa-mentor/"
+  side: left
 
 - title: "Search"
   url: "/search/"
