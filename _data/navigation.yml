@@ -6,8 +6,6 @@
   url: "/chi-siamo/"
   side: left
   dropdown:
-  - title: "Cosa è CoderDojo"
-    url: "/chi-siamo/cosa-coderdojo/"
   - title: "Domande frequenti"
     url: "/chi-siamo/domande-frequenti/"
   - title: "I nostri Mentor"
