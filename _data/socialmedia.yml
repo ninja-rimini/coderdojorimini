@@ -23,10 +23,10 @@
 #  class: icon-googleplus
 #  title: "YouTube Google+"
 
- - name: Facebook
-   url: https://www.facebook.com/coderdojorimini
-   class: icon-facebook
-   title: "Eventi del Coderdojo Rimini"
+- name: Facebook
+  url: https://www.facebook.com/coderdojorimini
+  class: icon-facebook
+  title: "Eventi del Coderdojo Rimini"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
