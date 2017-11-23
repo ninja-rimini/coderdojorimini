@@ -45,7 +45,7 @@
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="»Coderdojo Rimini« organizza incontri gratuiti per insegnare ai giovani a programmare. Promuove il software open source e gratuito">
 	<meta property="og:url" content="http://localhost:4000/coderdojorimini//assets/xslt/atom.xslt">
-	<meta property="og:locale" content="en_EN">
+	<meta property="og:locale" content="it_IT">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Coderdojo Rimini">
 	
@@ -408,11 +408,11 @@
       <div id="footer">
         <div class="row">
           <div class="medium-6 large-5 columns">
-            <h5 class="shadow-black">About This Site</h5>
+            <h5 class="shadow-black">CoderDojo Rimini</h5>
 
             <p class="shadow-black">
               »Coderdojo Rimini« organizza incontri gratuiti per insegnare ai giovani a programmare. Promuove il software open source e gratuito
-              <a href="http://localhost:4000/coderdojorimini//info/">More ›</a>
+              <a href="http://localhost:4000/coderdojorimini//info/">Leggi tutto ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -420,7 +420,7 @@
           <div class="small-6 medium-3 large-3 large-offset-1 columns">
             
               
-                <h5 class="shadow-black">Services</h5>
+                <h5 class="shadow-black">Servizi</h5>
               
             
               
@@ -441,7 +441,7 @@
               
                 
                   <li >
-                    <a href="http://localhost:4000/coderdojorimini//contact/"  title="Contact">Contact</a>
+                    <a href="http://localhost:4000/coderdojorimini//contact/"  title="Contatti">Contact</a>
                   </li>
               
                 
@@ -466,7 +466,7 @@
           <div class="small-6 medium-3 large-3 columns">
             
               
-                <h5 class="shadow-black">Dankeschön</h5>
+                <h5 class="shadow-black">Ringraziamenti</h5>
               
             
               
@@ -487,7 +487,7 @@
             
               
                 <li class="network-entypo" >
-                  <a href="http://entypo.com/" target="_blank"  title="Icons by Daniel Bruce">Icons by Daniel Bruce</a>
+                  <a href="http://entypo.com/" target="_blank"  title="Icons by Daniel Bruce">Icone di Daniel Bruce</a>
                 </li>
             
               
