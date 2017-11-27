@@ -3,10 +3,10 @@
   class: icon-github
   title: "Sviluppa con il CodeDojo Rimini"
 
-#- name: YouTube
-#  url: http://www.youtube.com/PhlowMedia
-#  class: icon-youtube
-#  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+- name: YouTube
+  url: https://www.youtube.com/channel/UCEsICybXaTNdvB7OVV4YwKw
+  class: icon-youtube
+  title: "Video degli incontri"
 
 - name: Twitter
   url: http://twitter.com/coderdojoRN
