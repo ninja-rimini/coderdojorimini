@@ -21,7 +21,7 @@ widget2:
   3. Robotica con <a href="http://foundation.zurb.com/">Arduino</a> e <a href="http://foundation.zurb.com/">Raspberry</a>.<br/>
   4. Web development con Jekyll.<br/>
   5. Divertimento!'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="/coderdojorimini/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Scarica Scratch"
   url: '/risorse/'
