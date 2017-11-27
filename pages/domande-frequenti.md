@@ -9,7 +9,7 @@ header:
 permalink: "/chi-siamo/domande-frequenti/"
 ---
 - Cosa fate durante i vostri incontri?
-> Durante gli eventi i partecipanti con l’aiuto dei mentor imparano le basi della programmazione usando un programma visuale, Scratch, creato dal MIT
+## Durante gli eventi i partecipanti con l’aiuto dei mentor imparano le basi della programmazione usando un programma visuale, Scratch, creato dal MIT
 
 - Come ci si iscrive ai vostri incontri?
 > Le modalità di registrazione sono indicate volta per volta sul sito alla sezione [Eventi](/eventi/ "Eventi")
