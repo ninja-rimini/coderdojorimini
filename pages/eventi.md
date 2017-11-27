@@ -14,8 +14,8 @@ Eventi pubblicati su [Zen CoderDojo](https://zen.coderdojo.com/dojos/it/rimini-p
 
 
 
-[//] # <ul>
-[//] #    {% for post in site.categories.design %}
-[//] #    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-[//] #    {% endfor %}
-[//] # </ul>
+[comment]: <> <ul>
+[comment]: <>    {% for post in site.categories.design %}
+[comment]: <>    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+[comment]: <>    {% endfor %}
+[comment]: <> </ul>
