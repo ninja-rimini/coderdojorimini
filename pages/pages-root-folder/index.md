@@ -26,7 +26,7 @@ widget3:
   title: "Scarica Scratch"
   url: '/risorse/'
   image: widget-github-303x182.jpg
-  text: '<em>Scratch</em> is free and licensed under a MIT License. Scaricalo e comincia a sviluppare. Prendi la versione  <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Off Line</a> per il tuo sistema operativo o prova ad usare quella <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">on line</a> più aggiornata. Scrivici via Twitter <a href="http://twitter.com/coderdojoRN">@coderdojoRN</a>.'
+  text: '<em>Scratch</em> e gratis, funziona su Windows, Mac e Linux. Scaricalo e comincia a sviluppare. Prendi la versione più precedentemente <a href="https://scratch.mit.edu/download">Editor Offline 2.0</a> oppure la versione stabile precedente <a href="http://scratch.mit.edu/scratch_1.4/">on line</a> più aggiornata. Scrivici via Twitter <a href="http://twitter.com/coderdojoRN">@coderdojoRN</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
