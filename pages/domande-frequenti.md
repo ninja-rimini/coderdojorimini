@@ -2,8 +2,8 @@
 layout: page
 show_meta: false
 title: "Domande frequenti"
-subheadline: "Domande Frequenti"
-teaser: ""
+subheadline: "FAQ"
+teaser: "Tutto quello che vorreste sapere sul CoderDojo Rimini"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/chi-siamo/domande-frequenti/"
