@@ -13,9 +13,10 @@ permalink: "/eventi/"
 Eventi pubblicati su [Zen CoderDojo](https://zen.coderdojo.com/dojos/it/rimini-province-of-rimini/rimini "Evento CoderDojoRimini")
 
 
-
+<!--
 <ul>
     {% for post in site.categories.design %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
+-->
