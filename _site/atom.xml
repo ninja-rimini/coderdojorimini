@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/coderdojorimini//</id>
 	<title>Coderdojo Rimini</title>
-	<updated>2017-11-24T16:36:39+01:00</updated>
+	<updated>2017-11-27T15:54:44+01:00</updated>
 
 	<subtitle>»Coderdojo Rimini« organizza incontri gratuiti per insegnare ai giovani a programmare. Promuove il software open source e gratuito</subtitle>
 
@@ -12,11 +12,9 @@
 		
 		<author>
 			
-				<name>Mauro</name>
+				<name>maver</name>
 			
 			
-			
-				<uri>http://www.mauroferri.com/</uri>
 			
 		</author>
 	
@@ -37,11 +35,9 @@
 				
 				<author>
 					
-						<name>Mauro</name>
+						<name>maver</name>
 					
 					
-					
-						<uri>http://www.mauroferri.com/</uri>
 					
 				</author>
 			
@@ -102,11 +98,9 @@
 				
 				<author>
 					
-						<name>Mauro</name>
+						<name>maver</name>
 					
 					
-					
-						<uri>http://www.mauroferri.com/</uri>
 					
 				</author>
 			
@@ -571,11 +565,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>Mauro</name>
+						<name>maver</name>
 					
 					
-					
-						<uri>http://www.mauroferri.com/</uri>
 					
 				</author>
 			
@@ -604,11 +596,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>Mauro</name>
+						<name>maver</name>
 					
 					
-					
-						<uri>http://www.mauroferri.com/</uri>
 					
 				</author>
 			
@@ -671,11 +661,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>Mauro</name>
+						<name>maver</name>
 					
 					
-					
-						<uri>http://www.mauroferri.com/</uri>
 					
 				</author>
 			
@@ -742,11 +730,9 @@ image:
 				
 				<author>
 					
-						<name>Mauro</name>
+						<name>maver</name>
 					
 					
-					
-						<uri>http://www.mauroferri.com/</uri>
 					
 				</author>
 			
@@ -814,11 +800,9 @@ image:
 				
 				<author>
 					
-						<name>Mauro</name>
+						<name>maver</name>
 					
 					
-					
-						<uri>http://www.mauroferri.com/</uri>
 					
 				</author>
 			
@@ -877,11 +861,9 @@ image:
 				
 				<author>
 					
-						<name>Mauro</name>
+						<name>maver</name>
 					
 					
-					
-						<uri>http://www.mauroferri.com/</uri>
 					
 				</author>
 			
@@ -953,11 +935,9 @@ image:
 				
 				<author>
 					
-						<name>Mauro</name>
+						<name>maver</name>
 					
 					
-					
-						<uri>http://www.mauroferri.com/</uri>
 					
 				</author>
 			
@@ -1025,11 +1005,9 @@ image:
 				
 				<author>
 					
-						<name>Mauro</name>
+						<name>maver</name>
 					
 					
-					
-						<uri>http://www.mauroferri.com/</uri>
 					
 				</author>
 			
