@@ -1,14 +1,14 @@
 ---
 layout: page
 sidebar: right
-subheadline: Templates
+subheadline: Prove
 title:  "Il mio primo post su Jekyll"
 teaser: "This is an example of page/post with a sidebar on the right."
 breadcrumb: true
 tags:
     - post format
 categories:
-    - design
+    - news
 image:
     thumb: gallery-example-2-thumb.jpg
     title: gallery-example-2.jpg
