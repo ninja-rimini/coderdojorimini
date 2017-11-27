@@ -9,13 +9,13 @@ header:
 permalink: "/chi-siamo/domande-frequenti/"
 ---
 - Cosa fate durante i vostri incontri?
-## Durante gli eventi i partecipanti con l’aiuto dei mentor imparano le basi della programmazione usando un programma visuale, Scratch, creato dal MIT
+### Durante gli eventi i partecipanti con l’aiuto dei mentor imparano le basi della programmazione usando un programma visuale, Scratch, creato dal MIT
 
 - Come ci si iscrive ai vostri incontri?
-> Le modalità di registrazione sono indicate volta per volta sul sito alla sezione [Eventi](/eventi/ "Eventi")
+### Le modalità di registrazione sono indicate volta per volta sul sito alla sezione [Eventi](/eventi/ "Eventi")
 
 - Dove posso trovare le date dei prossimi incontri?
-> Sul nostro sito alla pagina [Eventi](/eventi/ "Eventi")
+### Sul nostro sito alla pagina [Eventi](/eventi/ "Eventi")
 
 - Quando si aprono le registrazioni?
 > Per gli eventi che si svolgono il sabato, le registrazioni si aprono il lunedì pomeriggio. Per essere puntualmente aggiornato segui la nostra pagina Facebook  [CoderDojoRimini](https://www.facebook.com/CoderDojoRimini/) o il nostro account Twitter [CoderDojoRN](https://twitter.com/coderdojoRN)
