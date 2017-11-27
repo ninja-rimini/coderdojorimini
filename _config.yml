@@ -8,20 +8,20 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Coderdojo Rimini'
+title: 'CoderDojo Rimini'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'La palestra della programmazione per i ragazzi di Rimini'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Coderdojo Rimini« organizza incontri gratuiti per insegnare ai giovani a programmare. Promuove il software open source e gratuito' 
+description: '»Coderdojo Rimini« organizza incontri gratuiti per insegnare ai giovani a programmare. Promuove il software open source e gratuito'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: maver
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -80,7 +80,7 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: 'en'
+language: 'it'
 
 
 # Used › default.html front-matter and compress.html
@@ -112,7 +112,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: coderdojorimini  # Default author for pages
+      author: Sensei  # Default author for pages
   -
     scope:
       path: ''
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: Sensei     # Default author for posts
 
 
 
@@ -179,7 +179,7 @@ msapplication_tilecolor:                '#fabb00'
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
 og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
-og_locale:                          'en_EN'
+og_locale:                          'it_IT'
 og_type:                            'website'
 
 
