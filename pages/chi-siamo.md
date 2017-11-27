@@ -13,6 +13,7 @@ Il CoderDojo è nato in Irlanda nel 2011. Si rivolge a bambini e adolescenti ma 
 CoderDojo promuove l'utilizzo del software open source e gratuito e dispone di una forte rete di soci e volontari a livello globale.
 
 [CoderDojoRimini](https://www.riminiinnovationsquare.com/coderdojo-rimini/ "CoderDojoRimini")
+
 <!--
 1. Open `_config.yml` and work it through, it's well documented
 1. Add your own `logo.png` to `/assets/img/`.
