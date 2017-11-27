@@ -11,14 +11,14 @@ widget1:
   title: "Notizie & Articoli"
   url: '/blog/'
   image: widget-1-302x182.jpg
-  text: 'Condividiamo sul blog il pensiero dei nostri mentor, campioni, ninja ed ovviamente del nostro venerando  <em>Sensei</em>.'
+  text: 'Condividiamo sul blog il pensiero dei nostri mentor, campioni, ninja ed ovviamente del nostro venerando  <a href="http://www.mind-spa.it/"><em>Sensei</em></a>.'
 widget2:
   title: "Cos'è il CoderDojo?"
   url: '/chi-siamo/'
   text: '<em>CoderDojo Rimini</em> è:<br/>
   1. Coding<br/>
   2. Scratch<br/>
-  3. Robotica con <a href="http://foundation.zurb.com/">Arduino</a> e <a href="http://foundation.zurb.com/">Raspberry</a>.<br/>
+  3. Robotica con <a href="https://www.arduino.cc/">Arduino</a> e <a href="https://www.raspberrypi.org/">Raspberry</a>.<br/>
   4. Web development con Jekyll.<br/>
   5. Divertimento!'
   video: '<a href="#" data-reveal-id="videoModal"><img src="/coderdojorimini/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
@@ -26,7 +26,7 @@ widget3:
   title: "Scarica Scratch"
   url: '/risorse/'
   image: widget-github-303x182.jpg
-  text: '<em>Scratch</em> e gratis, funziona su Windows, Mac e Linux. Scaricalo e comincia a sviluppare. Prendi la versione più precedentemente <a href="https://scratch.mit.edu/download">Editor Offline 2.0</a> oppure la versione stabile precedente <a href="http://scratch.mit.edu/scratch_1.4/">on line</a> più aggiornata. Scrivici via Twitter <a href="http://twitter.com/coderdojoRN">@coderdojoRN</a>.'
+  text: '<em>Scratch</em> è gratis, funziona su Windows, Mac e Linux. Scaricalo e comincia a sviluppare. Prendi la versione più recente <a href="https://scratch.mit.edu/download">Scratch 2.0</a> oppure quella più stabile <a href="http://scratch.mit.edu/scratch_1.4/">Scratch 1.4</a>. Puoi anche divertirti <a href="https://scratch.mit.edu/projects/editor/?tip_bar=home">online</a>! Scrivici via Twitter <a href="http://twitter.com/coderdojoRN">@coderdojoRN</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
