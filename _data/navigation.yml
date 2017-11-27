@@ -11,6 +11,10 @@
   - title: "I nostri Mentor"
     url: "/chi-siamo/nostri-mentor/"
 
+- title: "Blog"
+  url: "/blog/"
+  side: left
+
 - title: "Eventi"
   url: "/eventi/"
   side: left
@@ -29,15 +33,14 @@
 - title: "Sostienici"
   url: "/sostienici/"
   side: left
+  dropdown:
+  - title: "Diventa Mentor"
+    url: "/diventa-mentor/"
 
-- title: "Diventa Mentor"
-  url: "/diventa-mentor/"
-  side: left
-
-- title: "Search"
+- title: "Cerca"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Contatti"
   url: "/contact/"
   side: right
