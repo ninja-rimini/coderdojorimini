@@ -1,10 +1,12 @@
 ---
 layout: page
-title: "Contattaci"
-meta_title: "Modulo di vontatto Wufoo-powered"
+title: "Diventa Mentor"
+meta_title: "Modulo di contatto diventa mentor"
 subheadline: "Wufoo-powered"
 teaser: "Diventa parte della nostra comunità!"
-permalink: "/contact/"
+header:
+   image_fullwidth: "testata-ninja-form.jpg"
+permalink: "/sostienici/diventa-mentor"
 ---
 <div id="wufoo-z196vnqs04kfr0o">
 Fill out my <a href="https://coderdojorimini.wufoo.com/forms/z196vnqs04kfr0o">online form</a>.
