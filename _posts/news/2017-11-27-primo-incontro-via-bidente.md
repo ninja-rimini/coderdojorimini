@@ -6,7 +6,7 @@ title:  "Il 25 novembre primo incontro del Dojo al Centro civico"
 teaser: "Si è svolto nella sala attrezzata di via Bidente il secondo incontro del mese"
 breadcrumb: true
 tags:
-    - post format evento coderdojo
+    - post evento coderdojo
 categories:
     - news
 image:
