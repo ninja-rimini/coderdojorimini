@@ -25,6 +25,5 @@ L'incontro, il secondo organizzato nel mese di novembre, ha visto la partecipazi
 
 Grazie alla nostra mentor *Elena Moretti* per la continua ricerca di nuovi strumenti tecnologici per favorire l'apprendimento dei nuovi linguaggi di programmazione della realtà!
 
-{% if page.comments %}
+
 {% include comments %}
-{% endif %}
