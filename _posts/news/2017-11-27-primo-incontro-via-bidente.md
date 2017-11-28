@@ -6,7 +6,9 @@ title:  "Il 25 novembre primo incontro del Dojo al Centro civico"
 teaser: "Si è svolto nella sala attrezzata di via Bidente il secondo incontro del mese"
 breadcrumb: true
 tags:
-    - post evento coderdojo
+    - post
+    - evento
+    - coderdojo
 categories:
     - news
 image:
@@ -19,7 +21,7 @@ header:
     caption: Image by Florian Klauer
     caption_url: "http://florianklauer.de/"
 comments: true
-show_meta: false
+show_meta: true
 ---
 
 Sabato scorso si è svolto per la prima volta l'incontro del Coderdojo di Rimini nella sala attrezzata di via Bidente, nella sede della ex circoscrizione.
