@@ -14,10 +14,12 @@ image:
     title: evento_25112017.jpg
     caption: Sala del centro civico Via Bidente
     caption_url: https://goo.gl/maps/btCqwHo2GN82
-show_meta: true
-comments: true
 header:
-   image_fullwidth: "header_homepage_4.jpg"
+    image_fullwidth: "header_typewriter.jpg"
+    caption: Image by Florian Klauer
+    caption_url: "http://florianklauer.de/"
+comments: true
+show_meta: false
 ---
 
 Sabato scorso si è svolto per la prima volta l'incontro del Coderdojo di Rimini nella sala attrezzata di via Bidente, nella sede della ex circoscrizione.
