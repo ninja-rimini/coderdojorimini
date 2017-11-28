@@ -3,10 +3,38 @@
 <?xml-stylesheet type="text/css" href="http://localhost:4000/coderdojorimini//assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Coderdojo Rimini</title>
+		<title>CoderDojo Rimini</title>
 		<description>»Coderdojo Rimini« organizza incontri gratuiti per insegnare ai giovani a programmare. Promuove il software open source e gratuito</description>
 		<link>http://localhost:4000/coderdojorimini//</link>
 		<atom:link href="http://localhost:4000/coderdojorimini//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Prova titolo</title>
+				<link>http://localhost:4000/coderdojorimini//news/post-comments/</link>
+				<pubDate>Tue, 28 Nov 2017 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Sabato scorso si è svolto per la prima volta l’incontro del Coderdojo di Rimini nella sala attrezzata di via Bidente, nella sede della ex circoscrizione.
+L’incontro, il secondo organizzato nel mese di novembre, ha visto la partecipazione di una decina di ragazzi intorno al consueto tavolo di programmazione Scartch.
+&lt;!--more--&gt;
+ Al sempre valido strumento del MIT si è aggiunto al tavolo con i Lego WEDO, i famosi mattoncini questa volta sono programmabili e governabili con una apposita app. E’ naturalle che abbiano riscosso il consenso di tutti i presenti!&lt;/p&gt;
+
+&lt;p&gt;Grazie alla nostra mentor &lt;em&gt;Elena Moretti&lt;/em&gt; per la continua ricerca di nuovi strumenti tecnologici per favorire l’apprendimento dei nuovi linguaggi di programmazione della realtà!&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/coderdojorimini//news/post-comments/</guid>
+			</item>
+		
+			<item>
+				<title>Il 25 novembre primo incontro del Dojo al Centro civico</title>
+				<link>http://localhost:4000/coderdojorimini//news/primo-incontro-via-bidente/</link>
+				<pubDate>Mon, 27 Nov 2017 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Sabato scorso si è svolto per la prima volta l’incontro del Coderdojo di Rimini nella sala attrezzata di via Bidente, nella sede della ex circoscrizione.
+L’incontro, il secondo organizzato nel mese di novembre, ha visto la partecipazione di una decina di ragazzi intorno al consueto tavolo di programmazione Scartch.
+&lt;!--more--&gt;
+ Al sempre valido strumento del MIT si è aggiunto al tavolo con i Lego WEDO, i famosi mattoncini questa volta sono programmabili e governabili con una apposita app. E’ naturalle che abbiano riscosso il consenso di tutti i presenti!&lt;/p&gt;
+
+&lt;p&gt;Grazie alla nostra mentor &lt;em&gt;Elena Moretti&lt;/em&gt; per la continua ricerca di nuovi strumenti tecnologici per favorire l’apprendimento dei nuovi linguaggi di programmazione della realtà!&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/coderdojorimini//news/primo-incontro-via-bidente/</guid>
+			</item>
 		
 			<item>
 				<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
@@ -716,97 +744,6 @@ image:
 
 </description>
 				<guid isPermaLink="true">http://localhost:4000/coderdojorimini//design/header-image-color/</guid>
-			</item>
-		
-			<item>
-				<title>Header with a Full-Width-Image</title>
-				<link>http://localhost:4000/coderdojorimini//design/header-full-width-image/</link>
-				<pubDate>Thu, 09 Oct 2014 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;It’s so easy to do. Just define in front matter your image.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    image_fullwidth: &quot;unsplash_brooklyn-bridge_header.jpg&quot;
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/coderdojorimini//design/header-full-width-image/</guid>
-			</item>
-		
-			<item>
-				<title>Header Image With Pattern</title>
-				<link>http://localhost:4000/coderdojorimini//design/header-image-pattern/</link>
-				<pubDate>Wed, 08 Oct 2014 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the &lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-image-color/&quot;&gt;example with a background color&lt;/a&gt;.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    image:  &quot;header_unsplash_2-970x.jpg&quot;
-    pattern:  &quot;pattern_concrete.jpg&quot;
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/coderdojorimini//design/header-image-pattern/</guid>
 			</item>
 		
 	</channel>

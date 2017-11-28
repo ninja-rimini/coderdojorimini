@@ -35,7 +35,7 @@
   side: left
   dropdown:
   - title: "Diventa Mentor"
-    url: "/diventa-mentor/"
+    url: "/sostienici/diventa-mentor/"
 
 - title: "Cerca"
   url: "/search/"
