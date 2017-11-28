@@ -2,16 +2,11 @@
 layout: page
 sidebar: right
 subheadline: Eventi
-title:  "Il 25 novembre primo incontro del Dojo al Centro civico"
-teaser: "Si è svolto nella sala attrezzata di via Bidente il secondo incontro del mese"
+title:  "Prova titolo"
+teaser: "Prova teaser"
 breadcrumb: true
 categories:
     - news
-image:
-    thumb: evento_25112017_thumb.jpg
-    title: evento_25112017.jpg
-    caption: Sala del centro civico Via Bidente
-    caption_url: https://goo.gl/maps/btCqwHo2GN82
 header:
     image_fullwidth: "header_typewriter.jpg"
     caption: Image by Florian Klauer
