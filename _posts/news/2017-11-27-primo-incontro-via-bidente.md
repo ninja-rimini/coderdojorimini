@@ -15,6 +15,7 @@ image:
     caption: Sala del centro civico Via Bidente
     caption_url: https://goo.gl/maps/btCqwHo2GN82
 show_meta: true
+comments: true
 ---
 
 Sabato scorso si è svolto per la prima volta l'incontro del Coderdojo di Rimini nella sala attrezzata di via Bidente, nella sede della ex circoscrizione.
@@ -23,3 +24,7 @@ L'incontro, il secondo organizzato nel mese di novembre, ha visto la partecipazi
  Al sempre valido strumento del MIT si è aggiunto al tavolo con i Lego WEDO, i famosi mattoncini questa volta sono programmabili e governabili con una apposita app. E' naturalle che abbiano riscosso il consenso di tutti i presenti!
 
 Grazie alla nostra mentor *Elena Moretti* per la continua ricerca di nuovi strumenti tecnologici per favorire l'apprendimento dei nuovi linguaggi di programmazione della realtà!
+
+{% if page.comments %}
+{% include comments %}
+{% endif %}
