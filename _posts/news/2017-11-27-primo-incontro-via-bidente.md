@@ -16,6 +16,8 @@ image:
     caption_url: https://goo.gl/maps/btCqwHo2GN82
 show_meta: true
 comments: true
+header:
+   image_fullwidth: "header_homepage_4.jpg"
 ---
 
 Sabato scorso si è svolto per la prima volta l'incontro del Coderdojo di Rimini nella sala attrezzata di via Bidente, nella sede della ex circoscrizione.
