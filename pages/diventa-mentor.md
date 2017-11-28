@@ -6,7 +6,7 @@ subheadline: "Wufoo-powered"
 teaser: "Diventa parte della nostra comunità!"
 header:
    image_fullwidth: "testata-ninja-form.jpg"
-permalink: "/sostienici/diventa-mentor"
+permalink: "/sostienici/diventa-mentor/"
 ---
 <div id="wufoo-z196vnqs04kfr0o">
 Fill out my <a href="https://coderdojorimini.wufoo.com/forms/z196vnqs04kfr0o">online form</a>.
