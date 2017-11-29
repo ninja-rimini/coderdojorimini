@@ -5,8 +5,7 @@ title: "Domande frequenti"
 subheadline: "FAQ"
 teaser: "Tutto quello che vorreste sapere sul CoderDojo Rimini"
 header:
-   title: F.A.Q.
-   image_fullwidth: "header_homepage_13.jpg"
+    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/chi-siamo/domande-frequenti/"
 ---
 ### Cosa fate durante i vostri incontri?
