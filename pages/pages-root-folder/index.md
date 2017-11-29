@@ -11,7 +11,8 @@ widget1:
   title: "Notizie & Articoli"
   url: '/blog/'
   image: widget-1-302x182.jpg
-  text: 'Condividiamo sul blog il pensiero dei nostri mentor, campioni, ninja ed ovviamente del nostro venerando  <a href="http://www.mind-spa.it/"><em>Sensei</em></a>.'
+  text: 'Condividiamo sul blog il pensiero dei nostri mentor, campioni, ninja ed ovviamente del nostro venerando  <a href="http://www.mind-spa.it/"><em>Sensei</em></a>.
+  Pubblichiamo qui anche le informazioni sulle novità del mondo Coderdojo'
 widget2:
   title: "Cos'è il CoderDojo?"
   url: '/chi-siamo/'
