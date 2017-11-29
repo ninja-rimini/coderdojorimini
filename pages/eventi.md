@@ -7,7 +7,6 @@ header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/eventi/"
 ---
-<iframe src="https://zen.coderdojo.com/dojos/it/rimini-province-of-rimini/rimini" style="border: 0" width="800" height="600" frameborder="0"></iframe>
 
 <iframe src="https://calendar.google.com/calendar/embed?src=coderdojorimini%40gmail.com&ctz=Europe/Rome" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
