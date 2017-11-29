@@ -21,7 +21,7 @@ Sono fondatore e mentor per i Coderdojo di Rimini e Pesaro.
 
 ## Elena Moretti
 ### Mentor ed educatrice
-<img src="/coderdojorimini/images/elena_moretti.png" heigh="250" width="250" style="float:right" alt="Elena Moretti">
+<img src="/coderdojorimini/images/elena_moretti2.png" heigh="250" width="250" style="float:right" alt="Elena Moretti">
 Appassionata e curiosa, ho accettato l’invito a diventare un mentor perché non bisogna mai smettere di imparare dai bambini e questa esperienza mi permette di farlo, divertendomi e restituendo in cambio (spero) un piccolo esempio di come il gioco aiuti a crescere sani e positivi! Un “coding” al giorno toglie lo stress di torno!!
 
 
