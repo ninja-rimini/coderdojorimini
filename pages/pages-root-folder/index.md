@@ -40,7 +40,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: /eventi/
+  url: /newsletter/
   text: Tienimi informato sui prossimi incontri ›
   style: alert
 permalink: /index.html
