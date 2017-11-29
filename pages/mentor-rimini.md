@@ -17,7 +17,7 @@ Nell’IT da oltre un quarto di secolo, mi batto:
 - per il Data-driven Business (algocrazia in CdA!) contro il management miope e il marketing pallonaro
 - per la User Experience contro gli imbrattatori di schermi
 - per la Data Governance contro la “Privacy di carta”.
-È una lotta impari.
+È una lotta impari assai.
 Sono fondatore e mentor per i Coderdojo di Rimini e Pesaro.
 
 ## Elena Moretti
