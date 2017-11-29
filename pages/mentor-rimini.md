@@ -4,7 +4,7 @@ title: "Mentor del CoderDojo Rimini"
 subheadline: "Volontari digitali "
 teaser: "Quelli che..."
 header:
-   image_fullwidth: "header_roadmap_3.jpg"
+   image_fullwidth: "testata-mentor.jpg"
 permalink: "/chi-siamo/mentor/"
 ---
 
