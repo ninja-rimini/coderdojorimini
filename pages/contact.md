@@ -1,21 +1,23 @@
 ---
 layout: page
 title: "Contattaci"
-meta_title: "Modulo di vontatto Wufoo-powered"
-subheadline: "Wufoo-powered"
-teaser: "Diventa parte della nostra comunità!"
+meta_title: "Modulo di contatto"
+subheadline: "Ci interessa il tuo pensiero"
+teaser: "Invia un messaggio al CoderDojo"
 permalink: "/contact/"
+header:
+   image_fullwidth: "testata-ninja-form.jpg"
 ---
-<div id="wufoo-z196vnqs04kfr0o">
-Fill out my <a href="https://coderdojorimini.wufoo.com/forms/z196vnqs04kfr0o">online form</a>.
+<div id="wufoo-mhyfxmd0t4vkq8">
+Fill out my <a href="https://coderdojorimini.wufoo.com/forms/mhyfxmd0t4vkq8">online form</a>.
 </div>
-<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Online contact and registration forms from <a href="http://www.wufoo.com">Wufoo</a>.</div>
-<script type="text/javascript">var z196vnqs04kfr0o;(function(d, t) {
+<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">There are tons of <a href="http://www.wufoo.com/features/">Wufoo features</a> to help make your forms awesome.</div>
+<script type="text/javascript">var mhyfxmd0t4vkq8;(function(d, t) {
 var s = d.createElement(t), options = {
 'userName':'coderdojorimini',
-'formHash':'z196vnqs04kfr0o',
+'formHash':'mhyfxmd0t4vkq8',
 'autoResize':true,
-'height':'1586',
+'height':'517',
 'async':true,
 'host':'wufoo.com',
 'header':'show',
@@ -23,13 +25,6 @@ var s = d.createElement(t), options = {
 s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
 s.onload = s.onreadystatechange = function() {
 var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { z196vnqs04kfr0o = new WufooForm();z196vnqs04kfr0o.initialize(options);z196vnqs04kfr0o.display(); } catch (e) {}};
+try { mhyfxmd0t4vkq8 = new WufooForm();mhyfxmd0t4vkq8.initialize(options);mhyfxmd0t4vkq8.display(); } catch (e) {}};
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
 })(document, 'script');</script>
-
-
-
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
-
-
- [1]: http://www.wufoo.com/
