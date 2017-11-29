@@ -4,6 +4,7 @@ show_meta: false
 title: "Eventi"
 subheadline: "Calendario degli incontri programmati"
 header:
+   title:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/eventi/"
 ---
