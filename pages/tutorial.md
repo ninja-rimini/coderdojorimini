@@ -15,9 +15,9 @@ Questo Tutorial ti mostrerà come creare il gioco ‘Avery cacciatrice di orribi
 
 ### [SCRATCH 2.0 e MakeyMakey - BUON COMPLEANNO (Ernesto)](http://coderdojomilano.it/tutorials/2015-02-26-scratch-2-0-e-makeymakey-buon-compleanno%20copia/)
 Pubblicato il 02/26/2015
-Questo tutorial insegna come creare un gioco con Scratch e la MakeyMakey in cui si deve far correre un anello lungo un tubo contorto, senza fargli toccare il tubo stesso.</h5>
+Questo tutorial insegna come creare un gioco con Scratch e la MakeyMakey in cui si deve far correre un anello lungo un tubo contorto, senza fargli toccare il tubo stesso.
 
-### [Base 1 - Acchiappa l'uovo](http://coderdojomilano.it/tutorials/2014-04-07-scratch-base-1-acchiappa-luovo/) </a></h4>
+### [Base 1 - Acchiappa l'uovo](http://coderdojomilano.it/tutorials/2014-04-07-scratch-base-1-acchiappa-luovo/)
 Pubblicato il 04/07/2014
 La versione pasquale del tutorial per creare un gioco con Scratch.</h5>
 
@@ -55,7 +55,7 @@ Pubblicato il 12/09/2016
 Questo Tutorial è per gli “esperti” del CSS e ti permetterà di rendere più belle le tue pagine HTML
 
 ## Javascript
-### [Livello intermedio](http://coderdojomilano.it/tutorials/2016-12-09-javascript-intermediate-ita/) </a></h4>
+### [Livello intermedio](http://coderdojomilano.it/tutorials/2016-12-09-javascript-intermediate-ita/)
 Pubblicato il 12/09/2016
 Tutorial intermedio Javascript
 
@@ -74,4 +74,4 @@ Pubblicato il 03/17/2014
 Comandiamo Esplora con Python, di Stefano Ricci.
 
 <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" />
-This work is licensed under a (http://creativecommons.org/licenses/by-nc/4.0/)[Creative Commons Attribution-NonCommercial 4.0 International License ].
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
