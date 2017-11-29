@@ -1,3 +1,4 @@
+---
 title: "Newsletter"
 layout: redirect
 sitemap: false
