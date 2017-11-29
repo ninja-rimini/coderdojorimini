@@ -28,6 +28,7 @@ Appassionata e curiosa, ho accettato l’invito a diventare un mentor perché no
 ## Mauro Ferri
 ### Mentor e civil servant
 <img src="/coderdojorimini/images/mauro-ferri.png" heigh="250" width="250" style="float:right" alt="Elena Moretti">
-Webmaster at Comune di Rimini since 2005
-Information architect, web content specialist, frontend web developer, web accessibility expert, web community manager.
-Digital agenda: open data, public wifi, wiki and crowdsourcing project to improve partecipation of citizens.
+Aggiorna contenuti sui siti del Comune di Rimini dal 2005.
+Appassionato di sviluppo web con un occhio attento all'accessibilità.
+Si occupa sempre per il Comune di agenda digitale e progetti per incrementare la partecipazione dei cittadini.
+Padre orgoglioso di una artista.
