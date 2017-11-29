@@ -5,8 +5,7 @@ title: "Chi siamo"
 subheadline: "Coderdojo ha una sola regola: Be cool!"
 teaser: "CoderDojo è un movimento globale senza scopo di lucro che si occupa dei istituire dei club e organizzare incontri gratuiti per insegnare ai giovani a programmare"
 header:
-   title: Be Cool!
-   image_fullwidth: "header_homepage_13.jpg"
+      image_fullwidth: "header_homepage_13.jpg"
 permalink: "/chi-siamo/"
 ---
 Il CoderDojo è nato in Irlanda nel 2011. Si rivolge a bambini e adolescenti ma anche i nonni sono bene accolti.
