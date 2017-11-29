@@ -5,7 +5,7 @@ subheadline: "Tutorial"
 teaser: "Questi sono link a risorse pubblicate dal Coderdojo di Milano"
 permalink: "/risorse/tutorial/"
 header:
-    title: CoderDojo rimini
+    title: CoderDojo Rimini
     image_fullwidth: "testata-tutorial.jpg"
 ---
 
