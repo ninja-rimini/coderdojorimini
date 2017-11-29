@@ -5,6 +5,7 @@ subheadline: "Volontari digitali "
 teaser: "Quelli che..."
 header:
    image_fullwidth: "testata-mentor.jpg"
+   title: i Mentor!
 permalink: "/chi-siamo/mentor/"
 ---
 
