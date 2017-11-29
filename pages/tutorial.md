@@ -3,7 +3,7 @@ layout: page
 title: "Tutorial"
 subheadline: "Tutorial"
 teaser: "Questi sono link a risorse pubblicate dal Coderdojo di Milano"
-permalink: "/tutorial/"
+permalink: "/risorse/tutorial/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
@@ -33,7 +33,7 @@ Impariamo a usare cicli e condizioni con Scratch.
 Pubblicato il 02/27/2014
 Impariamo a creare un gioco con Scratch.
 
-### [Frogger – Parte 2] (http://coderdojomilano.it/tutorials/2013-05-24-tutorial-frogger-parte-2/) 
+### [Frogger – Parte 2] (http://coderdojomilano.it/tutorials/2013-05-24-tutorial-frogger-parte-2/)
 Pubblicato il 05/24/2013
 Non perdetevi la seconda parte del tutorial per realizzare il mitico videogioco anni ‘80 Frogger. E quando lo avete completato, aiutate la rana a superare gli ostacoli e a raggiungere la sua tana!
 
