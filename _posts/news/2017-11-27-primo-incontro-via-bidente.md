@@ -18,7 +18,7 @@ header:
     caption: Image by Florian Klauer
     caption_url: "http://florianklauer.de/"
 comments: true
-show_meta: false
+show_meta: true
 ---
 Sabato scorso si è svolto per la prima volta l'incontro del Coderdojo di Rimini nella sala attrezzata di via Bidente, nella sede della ex circoscrizione.
 L'incontro, il secondo organizzato nel mese di novembre, ha visto la partecipazione di una decina di ragazzi intorno al consueto tavolo di programmazione Scartch.

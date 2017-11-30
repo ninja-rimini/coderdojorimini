@@ -31,7 +31,7 @@ gallery:
 header:
     image_fullwidth: "evento_09012015_fullwidth.jpg"
 comments: true
-show_meta: false
+show_meta: true
 ---
 
 ## Presentiamo la galleria fotografica dell'evento di (già) 2 anni fa!
