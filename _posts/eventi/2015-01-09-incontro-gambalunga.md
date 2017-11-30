@@ -8,10 +8,9 @@ breadcrumb: true
 categories:
     - news
 image:
-    thumb: evento_09012015_thumb.jpg
-    title: evento_09012015.jpg
-    caption: Internet point della Biblioteca Gambalunghina
-    caption_url: http://www.bibliotecagambalunga.it/
+    thumb: incontro-09012015-15-thumb.jpg
+    title: incontro-09012015-15.jpg
+
 gallery:
     - image_url: incontro-09012015-1.jpg
     - image_url: incontro-09012015-2.jpg
@@ -37,4 +36,4 @@ show_meta: false
 
 ## Presentiamo la galleria fotografica dell'evento di (già) 2 anni fa!
 
-{% raw %}{% include gallery %}{% endraw %}
+{% include gallery %}
