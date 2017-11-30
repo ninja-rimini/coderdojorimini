@@ -2,8 +2,8 @@
 layout: page
 sidebar: right
 subheadline: Eventi
-title:  "Il 25 novembre primo incontro del Dojo al Centro civico"
-teaser: "Si è svolto nella sala attrezzata di via Bidente il secondo incontro del mese"
+title:  "Incontro del Dojo alla Bibloteca Gambalunga"
+teaser: "Si è svolto nel gennaio 2015"
 breadcrumb: true
 categories:
     - news
