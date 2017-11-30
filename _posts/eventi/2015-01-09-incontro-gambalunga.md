@@ -29,11 +29,8 @@ gallery:
     - image_url: incontro-09012015-14.jpg
     - image_url: incontro-09012015-15.jpg
     - image_url: incontro-09012015-16.jpg
-
 header:
-    image_fullwidth: "testata-incontro.jpg"
-    caption: Image by Cirdan
-
+    image_fullwidth: "evento_09012015_fullwidth.jpg"
 comments: true
 show_meta: false
 ---
