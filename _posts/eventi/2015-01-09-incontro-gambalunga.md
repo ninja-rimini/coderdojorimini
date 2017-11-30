@@ -6,7 +6,7 @@ title:  "Incontro del Dojo alla Bibloteca Gambalunga"
 teaser: "Si è svolto nel gennaio 2015"
 breadcrumb: true
 categories:
-    - news
+    - eventi
 image:
     thumb: incontro-09012015-15-thumb.jpg
     title: incontro-09012015-15.jpg
