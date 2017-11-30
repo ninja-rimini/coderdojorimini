@@ -10,6 +10,7 @@ categories:
 image:
     thumb: evento_25112017_thumb.jpg
     title: evento_25112017.jpg
+    homepage: evento_25112017_home.jpg
     caption: Sala del centro civico Via Bidente
     caption_url: https://goo.gl/maps/btCqwHo2GN82
 header:
