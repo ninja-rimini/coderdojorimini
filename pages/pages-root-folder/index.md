@@ -7,6 +7,8 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
+  caption: Comic Arts by Marianna Balducci
+  caption_url: "http://mariannabalducci.it//"
 widget1:
   title: "Notizie & Articoli"
   url: '/blog/'
