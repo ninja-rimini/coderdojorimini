@@ -8,10 +8,7 @@ breadcrumb: true
 categories:
     - news
 image:
-    thumb: luoghi_thumb.jpg
-    title: luoghi.jpg
-    caption: Luoghi del CoderDojo
-
+    thumb: innovation_square_thumb.jpg
 header:
     image_fullwidth: "kids-coding.png"
     title: I Luoghi
