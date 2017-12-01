@@ -8,6 +8,7 @@ breadcrumb: true
 categories:
     - news
 image:
+    title: innovation_square.jpg
     thumb: innovation_square_thumb.jpg
 header:
     image_fullwidth: "kids-coding.png"
