@@ -25,7 +25,7 @@ widget2:
   3. Robotica con <a href="https://www.arduino.cc/">Arduino</a> e <a href="https://www.raspberrypi.org/">Raspberry</a>.<br/>
   4. Web development con Jekyll.<br/>
   5. Divertimento!'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="/coderdojorimini/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="{{ site.urlimg }}start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Scarica Scratch"
   url: '/risorse/'
