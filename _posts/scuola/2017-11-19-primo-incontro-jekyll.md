@@ -24,3 +24,4 @@ tags:
 - Url delle immagini del sito: {% raw %}{% {{ site.urlimg }} %}{% endraw %} = {{ site.urlimg }}
 - Relative Url: {% raw %}{% {{ "/assets/style.css" | relative_url }} %}{% endraw %} = {{ "/assets/style.css" | relative_url }}
 - Absolute Url: {% raw %}{% {{ "/assets/style.css" | absolute_url }} %}{% endraw %} = {{ "/assets/style.css" | absolute_url }}
+- Excerpt: {% raw %}{% {{ page.excerpt }} %}{% endraw %} = {{ page.excerpt }}
