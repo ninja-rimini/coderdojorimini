@@ -24,4 +24,6 @@ tags:
 - Url delle immagini del sito: {% raw %}{% {{ site.urlimg }} %}{% endraw %} = {{ site.urlimg }}
 - Relative Url: {% raw %}{% {{ "/assets/style.css" | relative_url }} %}{% endraw %} = {{ "/assets/style.css" | relative_url }}
 - Absolute Url: {% raw %}{% {{ "/assets/style.css" | absolute_url }} %}{% endraw %} = {{ "/assets/style.css" | absolute_url }}
-- Excerpt: {% raw %}{% {{ page.excerpt }} %}{% endraw %} = {{ page.excerpt }}
+- Title: {% raw %}{% {{ page.title }} %}{% endraw %} = {{ page.title }}
+- Path sito: {% raw %}{% {{ page.path }} %}{% endraw %} = {{ page.path }}
+- Link ad un post: {% raw %}{{ site.baseurl }}{% post_url 2015-01-09-incontro-gambalunga %}{% endraw %} = {{ site.baseurl }}{% post_url 2015-01-09-incontro-gambalunga %}
