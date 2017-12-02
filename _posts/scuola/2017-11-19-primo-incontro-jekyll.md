@@ -40,7 +40,7 @@ DATA
 {{ site.pages | sample:2 }}
 
 LINK
-[Link to a post]({{ site.baseurl }}{% link _posts/2017-11-20-luoghi-del-coderdojo.md %})
+[Link to a post]({{ site.baseurl }})
 
 PATH
 {{ page.path }}
