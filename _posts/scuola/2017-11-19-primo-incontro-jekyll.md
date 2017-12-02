@@ -8,8 +8,8 @@ breadcrumb: true
 categories:
     - scuola
 image:
-    title: jekyll.jpg
-    thumb: jekyll-thumb.jpg
+    title: jekyll.png
+    thumb: jekyll-thumb.png
     caption: Jekyll
     caption_url: http://www.jekyll.com/
 header:
@@ -20,6 +20,6 @@ show_meta: true
 tags:
     - scuola
 ---
-
-{{ site.urlimg }}
-{{ site.url }}
+- Url sito: {{ site.url }}
+- Url delle immagini del sito: {{ site.urlimg }}
+- Relstive Url: {{ "/assets/style.css" | relative_url }}
