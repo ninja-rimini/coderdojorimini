@@ -20,6 +20,7 @@ show_meta: true
 tags:
     - scuola
 ---
-- Url sito: {{ site.url }}
-- Url delle immagini del sito: {{ site.urlimg }}
-- Relstive Url: {{ "/assets/style.css" | relative_url }}
+- Url sito: {% raw %}{% {{ site.url }} %}{% endraw %} = {{ site.url }}
+- Url delle immagini del sito: {% raw %}{% {{ site.urlimg }} %}{% endraw %} = {{ site.urlimg }}
+- Relative Url: {% raw %}{% {{ "/assets/style.css" | relative_url }} %}{% endraw %} = {{ "/assets/style.css" | relative_url }}
+- Absolute Url: {% raw %}{% {{ "/assets/style.css" | absolute_url }} %}{% endraw %} = {{ "/assets/style.css" | absolute_url }}
