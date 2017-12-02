@@ -179,7 +179,7 @@ msapplication_tilecolor:                '#fabb00'
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
 # og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
-og_image:                           'http://ninja-rimini.github.io/coderdojorimini/assets/img/og_image.jpg'
+og_image:                           'https://ninja-rimini.github.io/coderdojorimini/images/og_image.jpg'
 og_locale:                          'it_IT'
 og_type:                            'website'
 
