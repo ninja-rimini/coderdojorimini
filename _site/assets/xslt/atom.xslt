@@ -220,7 +220,7 @@
 
                       
 
-                      <li><a  href="http://localhost:4000/coderdojorimini//chi-siamo/nostri-mentor/">I nostri Mentor</a></li>
+                      <li><a  href="http://localhost:4000/coderdojorimini//chi-siamo/mentor/">I nostri Mentor</a></li>
                     
                   </ul>
 
@@ -283,11 +283,6 @@
 
                       <li><a  href="http://localhost:4000/coderdojorimini//risorse/kata-italia/">Kata Italia</a></li>
                     
-
-                      
-
-                      <li><a  href="http://localhost:4000/coderdojorimini//risorse/strumenti/">Strumenti</a></li>
-                    
                   </ul>
 
               </li>
@@ -312,7 +307,7 @@
 
                       
 
-                      <li><a  href="http://localhost:4000/coderdojorimini//diventa-mentor/">Diventa Mentor</a></li>
+                      <li><a  href="http://localhost:4000/coderdojorimini//sostienici/diventa-mentor/">Diventa Mentor</a></li>
                     
                   </ul>
 
