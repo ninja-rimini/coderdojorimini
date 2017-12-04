@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header-sito-ninja-mb.jpg
   caption: Comic Arts by Marianna Balducci
   caption_url: "http://mariannabalducci.it//"
 widget1:
