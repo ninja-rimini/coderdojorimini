@@ -9,22 +9,8 @@
 		<atom:link href="http://localhost:4000/coderdojorimini//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Prova titolo</title>
-				<link>http://localhost:4000/coderdojorimini//news/post-comments/</link>
-				<pubDate>Tue, 28 Nov 2017 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;Sabato scorso si è svolto per la prima volta l’incontro del Coderdojo di Rimini nella sala attrezzata di via Bidente, nella sede della ex circoscrizione.
-L’incontro, il secondo organizzato nel mese di novembre, ha visto la partecipazione di una decina di ragazzi intorno al consueto tavolo di programmazione Scartch.
-&lt;!--more--&gt;
- Al sempre valido strumento del MIT si è aggiunto al tavolo con i Lego WEDO, i famosi mattoncini questa volta sono programmabili e governabili con una apposita app. E’ naturalle che abbiano riscosso il consenso di tutti i presenti!&lt;/p&gt;
-
-&lt;p&gt;Grazie alla nostra mentor &lt;em&gt;Elena Moretti&lt;/em&gt; per la continua ricerca di nuovi strumenti tecnologici per favorire l’apprendimento dei nuovi linguaggi di programmazione della realtà!&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/coderdojorimini//news/post-comments/</guid>
-			</item>
-		
-			<item>
 				<title>Il 25 novembre primo incontro del Dojo al Centro civico</title>
-				<link>http://localhost:4000/coderdojorimini//news/primo-incontro-via-bidente/</link>
+				<link>http://localhost:4000/coderdojorimini//eventi/incontro-centro-civico/</link>
 				<pubDate>Mon, 27 Nov 2017 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;Sabato scorso si è svolto per la prima volta l’incontro del Coderdojo di Rimini nella sala attrezzata di via Bidente, nella sede della ex circoscrizione.
 L’incontro, il secondo organizzato nel mese di novembre, ha visto la partecipazione di una decina di ragazzi intorno al consueto tavolo di programmazione Scartch.
@@ -33,7 +19,38 @@ L’incontro, il secondo organizzato nel mese di novembre, ha visto la partecipa
 
 &lt;p&gt;Grazie alla nostra mentor &lt;em&gt;Elena Moretti&lt;/em&gt; per la continua ricerca di nuovi strumenti tecnologici per favorire l’apprendimento dei nuovi linguaggi di programmazione della realtà!&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/coderdojorimini//news/primo-incontro-via-bidente/</guid>
+				<guid isPermaLink="true">http://localhost:4000/coderdojorimini//eventi/incontro-centro-civico/</guid>
+			</item>
+		
+			<item>
+				<title>Rimini Innovation Square &amp; Centro civico di Via Bidente</title>
+				<link>http://localhost:4000/coderdojorimini//news/luoghi-del-coderdojo/</link>
+				<pubDate>Mon, 20 Nov 2017 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;I luoghi molto belli dove ci troviamo quest’anno due volte al mese.&lt;/p&gt;
+
+&lt;h3 id=&quot;rimini-innovation-square&quot;&gt;&lt;a href=&quot;http://www.riminiturismo.it/&quot; title=&quot;Rimini Innovation Square&quot;&gt;Rimini Innovation Square&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Il primo sabato del mese ci troviamo, come già l’anno scorso, all’Innovation Square, un posto bellissimo nel centro storico di Rimini, in Corso d’Augusto, 62:&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2867.206397874127!2d12.567132815510934!3d44.05844647910945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132cc3a3e634cc1b%3A0x7d8eea11445e556a!2sRimini+Innovation+Square!5e0!3m2!1sit!2sit!4v1512163784478&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;centro-civico-di-via-bidente&quot;&gt;Centro Civico di Via Bidente&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://ninja-rimini.github.io/coderdojorimini/images/evento_25112017.jpg&quot; /&gt;
+L’ultimo sabato del mese invece ci incontriamo nella sala attrezzata del centro civico di Via Bidente. Anche questo è un bel posto, con anche una decina di personal computer utilizzabili e connessione wifi. E’ un luogo facilmente raggiungibile con un ampio parcheggio davanti.&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1434.1160528308324!2d12.573894958136409!3d44.03726059477753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132cc256198b3bfb%3A0xe26c0111b4a6ecb9!2sVia+Bidente%2C+1%2Fi%2C+47924+Rimini+RN!5e0!3m2!1sit!2sit!4v1512164087678&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/coderdojorimini//news/luoghi-del-coderdojo/</guid>
+			</item>
+		
+			<item>
+				<title>Prova del static site generator</title>
+				<link>http://localhost:4000/coderdojorimini//scuola/primo-incontro-jekyll/</link>
+				<pubDate>Sun, 19 Nov 2017 00:00:00 +0100</pubDate>
+				<description>&lt;ul&gt;
+  &lt;li&gt;Url sito: http://localhost:4000&lt;/li&gt;
+  &lt;li&gt;Url delle immagini del sito: https://ninja-rimini.github.io/coderdojorimini/images/&lt;/li&gt;
+  &lt;li&gt;Relstive Url: /coderdojorimini//assets/style.css&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/coderdojorimini//scuola/primo-incontro-jekyll/</guid>
 			</item>
 		
 			<item>
@@ -662,88 +679,99 @@ image:
 			</item>
 		
 			<item>
-				<title>Header With Logo Only</title>
-				<link>http://localhost:4000/coderdojorimini//design/header-logo-only/</link>
-				<pubDate>Thu, 09 Oct 2014 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;No front matter code needed.
-&lt;!--more--&gt;&lt;/p&gt;
+				<title>Incontro del Dojo alla Bibloteca Gambalunga</title>
+				<link>http://localhost:4000/coderdojorimini//eventi/incontro-gambalunga/</link>
+				<pubDate>Fri, 09 Jan 2015 00:00:00 +0100</pubDate>
+				<description>&lt;h2 id=&quot;presentiamo-la-galleria-fotografica-dellevento-di-già-2-anni-fa&quot;&gt;Presentiamo la galleria fotografica dell’evento di (già) 2 anni fa!&lt;/h2&gt;
 
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/coderdojorimini//design/header-logo-only/</guid>
-			</item>
+&lt;div&gt;
+	&lt;ul class=&quot;clearing-thumbs small-block-grid-4&quot; data-clearing=&quot;&quot;&gt;
 		
-			<item>
-				<title>Header Image With Background Color</title>
-				<link>http://localhost:4000/coderdojorimini//design/header-image-color/</link>
-				<pubDate>Thu, 09 Oct 2014 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;alert-box alert &quot;&gt;&lt;p&gt;WARNING: To make this work the value of &lt;code class=&quot;highlighter-rouge&quot;&gt;background-color&lt;/code&gt; must be inbetween quotes.&lt;/p&gt;
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-1.jpg&quot;&gt;&lt;img src=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-1-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-2.jpg&quot;&gt;&lt;img src=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-2-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-3.jpg&quot;&gt;&lt;img src=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-3-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-4.jpg&quot;&gt;&lt;img src=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-4-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-5.jpg&quot;&gt;&lt;img src=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-5-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-6.jpg&quot;&gt;&lt;img src=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-6-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-7.jpg&quot;&gt;&lt;img src=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-7-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-8.jpg&quot;&gt;&lt;img src=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-8-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-9.jpg&quot;&gt;&lt;img src=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-9-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-10.jpg&quot;&gt;&lt;img src=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-10-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-11.jpg&quot;&gt;&lt;img src=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-11-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-12.jpg&quot;&gt;&lt;img src=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-12-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-13.jpg&quot;&gt;&lt;img src=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-13-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-14.jpg&quot;&gt;&lt;img src=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-14-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-15.jpg&quot;&gt;&lt;img src=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-15-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-16.jpg&quot;&gt;&lt;img src=&quot;https://ninja-rimini.github.io/coderdojorimini/images/incontro-09012015-16-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+	&lt;/ul&gt;
 &lt;/div&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    image: &quot;header_unsplash_2-970x.jpg&quot;
-    background-color: &quot;#fabb00&quot;
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/coderdojorimini//design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/coderdojorimini//design/header-image-color/</guid>
+				<guid isPermaLink="true">http://localhost:4000/coderdojorimini//eventi/incontro-gambalunga/</guid>
 			</item>
 		
 	</channel>

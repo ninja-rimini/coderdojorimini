@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 31 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 35 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//404.html</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//blog/archive/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -39,7 +39,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//atom.xml</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -56,7 +56,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//changelog/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -71,7 +71,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//chi-siamo/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +86,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//contact/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -99,9 +99,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/coderdojorimini//sostienici/diventa-mentor</loc>
+	<loc>http://localhost:4000/coderdojorimini//sostienici/diventa-mentor/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +116,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//documentation/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +131,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//chi-siamo/domande-frequenti/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +146,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//eventi/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +161,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//feed.xml</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -176,7 +176,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//headers/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -191,7 +191,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//humans.txt</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -206,7 +206,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//blog/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -221,7 +221,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -236,7 +236,52 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//info/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/coderdojorimini//risorse/kata-italia/</loc>
+	
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/coderdojorimini//chi-siamo/mentor/</loc>
+	
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/coderdojorimini//newsletter/</loc>
+	
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -251,7 +296,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//redirect-page/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -266,7 +311,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//roadmap/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -281,7 +326,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//robots.txt</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -300,7 +345,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//search/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -315,7 +360,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//sitemap.xml</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -330,7 +375,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//sostienici/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -345,9 +390,24 @@
 
 	
 	<url>
+	<loc>http://localhost:4000/coderdojorimini//risorse/tutorial/</loc>
+	
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>http://localhost:4000/coderdojorimini//blog/page2/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -362,7 +422,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//blog/page3/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -377,7 +437,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//blog/page4/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -392,7 +452,7 @@
 	<url>
 	<loc>http://localhost:4000/coderdojorimini//blog/page5/</loc>
 	
-		<lastmod>2017-11-28T15:07:31+01:00</lastmod>
+		<lastmod>2017-12-02T03:50:57+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -404,13 +464,13 @@
 	
 
 
-<!-- Posts: 21 links with priority=0.5, changefreq=monthly -->
+<!-- Posts: 23 links with priority=0.5, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://localhost:4000/coderdojorimini//news/post-comments/</loc>
+	<loc>http://localhost:4000/coderdojorimini//eventi/incontro-centro-civico/</loc>
 	
-		<lastmod>2017-11-28T00:00:00+01:00</lastmod>
+		<lastmod>2017-11-27T00:00:00+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -423,9 +483,24 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/coderdojorimini//news/primo-incontro-via-bidente/</loc>
+	<loc>http://localhost:4000/coderdojorimini//news/luoghi-del-coderdojo/</loc>
 	
-		<lastmod>2017-11-27T00:00:00+01:00</lastmod>
+		<lastmod>2017-11-20T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/coderdojorimini//scuola/primo-incontro-jekyll/</loc>
+	
+		<lastmod>2017-11-19T00:00:00+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -516,6 +591,21 @@
 	<loc>http://localhost:4000/coderdojorimini//design/header-with-text/</loc>
 	
 		<lastmod>2015-02-10T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/coderdojorimini//eventi/incontro-gambalunga/</loc>
+	
+		<lastmod>2015-01-09T00:00:00+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
