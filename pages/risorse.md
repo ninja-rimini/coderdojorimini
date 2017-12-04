@@ -5,7 +5,7 @@ subheadline: "Tutorial"
 teaser: "Questi sono link a risorse pubblicate da altri Coderdojo italiani"
 permalink: "/risorse/"
 header:
-      title: "Risorse"
+      title: Risorse
       image_fullwidth: "testata-tutorial.jpg"
 ---
 ## Risorse Scratch
