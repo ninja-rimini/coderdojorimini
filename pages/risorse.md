@@ -2,9 +2,10 @@
 layout: page
 title: "Risorse"
 subheadline: "Tutorial"
-teaser: "Questi sono link a risorse pubblicate dal Coderdojo di Milano"
+teaser: "Questi sono link a risorse pubblicate da altri Coderdojo italiani"
 permalink: "/risorse/"
 header:
+      title="Risorse"
       image_fullwidth: "testata-tutorial.jpg"
 ---
 
